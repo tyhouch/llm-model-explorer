@@ -212,8 +212,8 @@ Therefore, the model is considered compatible with your hardware.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/llm-lens-model-explorer.git
-   cd llm-lens-model-explorer
+   git clone https://github.com/tyhouch/llm-model-explorer.git
+   cd llm-model-explorer
    ```
 
 2. **Install Dependencies**
