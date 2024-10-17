@@ -19,15 +19,6 @@ export const hardwareProfiles: HardwareConfig[] = [
       supportedQuantizations: ['FP16', 'Q4_K', 'Q5_K', 'Q6_K'],
     },
     {
-      profileName: 'MacBook Pro (16-inch, M2 Ultra, 128GB RAM)',
-      totalRAM: 128,
-      gpuMemory: 76, // Approximate total for M2 Ultra GPU
-      gpuCount: 1,
-      isCustom: false,
-      supportedFormats: ['GGUF', 'safetensors'],
-      supportedQuantizations: ['FP16', 'Q4_K', 'Q5_K', 'Q6_K'],
-    },
-    {
       profileName: 'MacBook Pro (14-inch, M2 Pro, 64GB RAM)',
       totalRAM: 64,
       gpuMemory: 19, // Approximate total for M2 Pro GPU
