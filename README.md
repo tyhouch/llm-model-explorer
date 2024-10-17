@@ -20,10 +20,6 @@
     - [Example Calculation](#example-calculation)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Features
@@ -36,12 +32,6 @@
 - **Compatibility Assessment**: Determine if a model is compatible with your hardware configuration.
 - **Interactive UI**: User-friendly interface with tooltips and explanations to guide you through technical concepts.
 - **Compatibility Explanation**: Understand how compatibility is calculated with detailed explanations and example calculations.
-
----
-
-## Demo
-
-[Insert link to a live demo or screenshots here if available.]
 
 ---
 
